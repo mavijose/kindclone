@@ -1,0 +1,41 @@
+#footer{
+padding-top: 150px;
+	background-color: #000000;
+	height: 25em;
+	text-align: center;
+	display: block;
+	font-size: 12px;
+}
+
+div span{
+	line-height: 1.5px;
+}
+
+div span a i{
+	color: white;
+	line-height: 5em;
+}
+
+div span a{
+	color: white;
+}
+
+div span a:hover {
+	color: gray;
+}
+
+#old{
+	background-color: #000;
+}
+
+.btn-warning {
+  color: black;
+  background-color: white;
+  border-color: black;
+  }
+
+  .btn-warning:hover {
+  color: white;
+  background-color: black;
+  border-color: black;
+}

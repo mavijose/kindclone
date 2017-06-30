@@ -1,0 +1,84 @@
+@import url("footer.css");
+@import url("menu.css");
+
+.panel-heading {
+  padding: 10px 20px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.panel-heading p{
+	font-size: 15px;
+}
+
+.panel-heading b{
+	font-size: 30px;
+}
+
+.btn-default:hover {
+  color: #FFFFFF;
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #000;
+}
+
+#daniel{
+	width: 70%;
+	height: 100%;
+}
+
+#nothing{
+	height: 15em;
+}
+
+#thing{
+height: 25em;
+padding-top: 30px;
+}
+
+ #h2 b {
+	font-size: 70px;
+}
+
+.text-center{
+ padding-bottom: 50px;
+}
+
+#centre b{
+	font-size: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+p.big{
+
+	 line-height: 1.8;
+	 word-spacing: 1px;
+	 letter-spacing: 1px;
+}
+
+.col-lg-4{
+	padding-top: 80px;
+}
+.col-lg-8{
+	padding-top: 10px;
+}
+
+p.small a{
+	text-decoration-line: underline;
+	color: #000;
+	font-size: 15px;
+	line-height: 1.5px;
+}
+
+p.small a:hover{
+	text-decoration-line: underline;
+	color: #000;
+	background-color: transparent;
+}

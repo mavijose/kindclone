@@ -1,0 +1,88 @@
+@import url("footer.css");
+@import url("menu.css");
+
+.panel-heading{
+	height: 20em;
+	border:0px;
+	padding-top: 5em;
+}
+
+#pseudo{
+
+    background-color: black;
+    color: white;
+    padding: 15px;
+    width: 18em;
+    position: relative;
+    display: inline;
+}
+
+#pseudo:hover {
+    background-color: gray;
+}
+
+.btn-default:hover {
+  color: #FFFFFF;
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #000;
+}
+.wrapper-blue{
+	background:#61B4E4;
+	color: white;
+	padding:8em 0;
+	line-height: 30px;
+	text-align: left;
+	height: 26em;
+	font-size: 17px;
+	word-spacing: 0.3px;
+	letter-spacing: 0.3px;
+ 
+}
+
+.wrapper-blue a{
+	color: white;
+	font-size: 12px;
+	text-decoration-line: underline;
+
+}
+
+.wrapper-white{
+	background: white;
+}
+
+.col-lg-3{
+	line-height: -0.3px;
+}
+.wrapper-white h2,h5{
+	text-align: center;
+}
+
+.do{
+	height: 15em;
+	background-color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.do h1, .wrapper-white h2{
+	font-size: 50px;
+}
+
+.wrapper{
+	text-align: center;
+	line-height: -1.5px;
+}
+
+.wrapper h1{
+font-size: 30px;
+}
+
+.rotate a{
+	text-decoration-line: underline;
+	color: black;
+}

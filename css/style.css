@@ -1,0 +1,69 @@
+@import url("footer.css");
+@import url("menu.css");
+.first{
+	background-color: #095D67;
+	height: 390px;
+	text-align: center;
+	color: #ffffff;
+	
+	line-height: 1.8px;
+	padding-top: 15px;
+}
+
+.first h1{
+	font-size: 60px;
+}
+
+.second{
+
+}
+
+#img1{
+	width: 750px;
+	height:250px;
+}
+.btn {
+	background-color: black;
+	color: white;
+	width: 10em;
+	height: 3em;
+}
+
+.btn hover{
+	background-color: gray;
+	color: blue;
+}
+
+#four p a{
+	line-height: 1.8px;
+    color: black;
+}
+
+#four p a:hover{
+	text-decoration-line: none;
+}
+
+.third{
+	padding-top: 100px;
+	text-align: center;
+	background-color: #F2F2F2;
+	
+}
+
+
+.fourteen{
+	line-height: 1.8em;
+}
+
+#alone{
+height: 15em;
+}
+
+.wrapper{
+	background-image: url('../images/pressed_strawberry_home_small_v5.png');
+	height: 900px;
+	background-size: cover;
+	padding-top: 300px;
+	text-align: center;
+	color: black;
+}

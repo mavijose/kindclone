@@ -1,0 +1,23 @@
+.navbar-nav{
+height: 5em;
+}
+
+.navbar-inverse{
+background-color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: white;
+  background-color: transparent;
+}
+
+.menu a{
+	color: #333;
+}
+
+.menu{
+	text-align: center;
+	font-size: 10px;
+	color: #095D67;
+}
